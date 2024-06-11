@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299541067107",
+    "project_id": "authotp-f52be",
+    "storage_bucket": "authotp-f52be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299541067107:android:3c1745c7c87ae9bb57cf56",
+        "android_client_info": {
+          "package_name": "com.authotp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF-74tJ06oG4Hu56PebqXU0JBCdo9WG7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
